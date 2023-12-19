@@ -1,6 +1,6 @@
 # Hello, there, so nice to meet you, fancy a cup of tea? 🍵
 
-### Here is my pet snake, it does not bit...too hard.
+### Here is my pet snake, it does not bite...too hard.
 ![](https://github.com/ychen-207523/ychen-207523/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### Something about me
