@@ -40,6 +40,10 @@
 ![Design](https://skillicons.dev/icons?i=figma)
 
 
+## Resume
+You can view my [resume](https://github.com/ychen-207523/resume/blob/main/Yunfei%20Chen%20Resume.pdf) to learn more about my background, skills, and experiences.
+
+
 <!--
 **ychen-207523/ychen-207523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
